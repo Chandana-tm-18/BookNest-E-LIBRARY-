@@ -1,4 +1,4 @@
-# 📚 E-Library Management System
+#E-Library 
 
 A secure online e-book reading platform built with:
 - **Frontend:** React.js + Tailwind CSS
@@ -6,14 +6,14 @@ A secure online e-book reading platform built with:
 - **Auth:** JWT
 - **Payments:** Stripe / Razorpay ready
 
-## ✨ Features
+ Features
 ✅ User Register / Login  
 ✅ Browse & purchase books  
 ✅ Secure PDF reading (no direct downloads)  
 ✅ Admin can upload books  
 ✅ Simple reading progress tracking
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 ### Backend
 ```bash
@@ -34,16 +34,12 @@ npm start
 
 The app runs on **http://localhost:3000** (frontend) and **http://localhost:5000** (backend).
 
-## 🌐 Deployment
+##  Deployment
 - Frontend: Vercel / Netlify
 - Backend: Railway.app / Render
 - DB: MongoDB Atlas
 
-## 🔥 Future Ideas
+##  Future Ideas
 - AI reading recommendations
 - Certificates on book completion
 - Social sharing, comments, ratings
-
----
-
-Made with ❤️ as a learning project.
